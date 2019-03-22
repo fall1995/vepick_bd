@@ -9,7 +9,6 @@ public class Velo {
 	private int idBornette;
 	private int id_model;
 	public VeloEtat etat;
-
 	static Connection conn;
 
 	public Velo() {
