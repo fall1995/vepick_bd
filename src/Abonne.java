@@ -9,9 +9,11 @@ public class Abonne {
 	private String sexe;
 	private int codeSecurite;
 
+
 	public Abonne() {
 		// TODO Auto-generated constructor stub
 	}
+
 
 	public int getNumeroClient() {
 		return numeroClient;
